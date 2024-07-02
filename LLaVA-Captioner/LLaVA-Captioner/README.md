@@ -12,7 +12,7 @@ Try asking for:
 * lists of keywords or tags
 * a description of the opposite of the image
 
-![llava_captioner](https://github.com/ceruleandeep/ComfyUI-LLaVA-Captioner/assets/83318388/61a1d62d-9de2-423a-a7ca-cf5907ecd833)
+![llava_captioner](C:\Users\Samruddhi\OneDrive\Desktop\LavaLex\LLaVA-Captioner\LLaVA-Captioner\assets\OP1.png)
 
 ### NSFWness (FAQ #1 apparently)
 
@@ -27,11 +27,11 @@ to activate concepts that aren't pictured and
 This is probably for the best in general.  But you will not have much success asking NSFW questions about SFW images.
 
 ## Installation
-1. `git clone https://github.com/ceruleandeep/ComfyUI-LLaVA-Captioner` into your `custom_nodes` folder 
-    - e.g. `custom_nodes\ComfyUI-LLaVA-Captioner`  
+1. `git clone https://github.com/Sam-1806/LavaLex.git` into your `custom_nodes` folder 
+    - e.g. `custom_nodes\LLaVA-Captioner`  
 2. Open a console/Command Prompt/Terminal etc
-3. Change to the `custom_nodes/ComfyUI-LLaVA-Captioner` folder you just created 
-    - e.g. `cd C:\ComfyUI_windows_portable\ComfyUI\custom_nodes\ComfyUI-LLaVA-Captioner` or wherever you have it installed
+3. Change to the `custom_nodes/LLaVA-Captioner` folder you just created 
+    - e.g. `cd C:\windows_portable\custom_nodes\LLaVA-Captioner` or wherever you have it installed
 4. Run `python install.py`
 5. Download models from [🤗](https://huggingface.co/jartine/llava-v1.5-7B-GGUF/tree/main) into `models\llama`:
     - [llava-v1.5-7b-Q4_K.gguf](https://huggingface.co/jartine/llava-v1.5-7B-GGUF/resolve/main/llava-v1.5-7b-Q4_K.gguf)
