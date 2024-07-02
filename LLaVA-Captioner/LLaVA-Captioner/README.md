@@ -12,7 +12,7 @@ Try asking for:
 * lists of keywords or tags
 * a description of the opposite of the image
 
-![llava_captioner](C:\Users\Samruddhi\OneDrive\Desktop\LavaLex\LLaVA-Captioner\LLaVA-Captioner\assets\OP1.png)
+![llava_captioner](https://github.com/ceruleandeep/ComfyUI-LLaVA-Captioner/assets/83318388/61a1d62d-9de2-423a-a7ca-cf5907ecd833)
 
 ### NSFWness (FAQ #1 apparently)
 
